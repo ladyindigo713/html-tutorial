@@ -65,6 +65,7 @@ ABOUT
 
 #about {
   padding: 48px 0;
+  background-color: #f8ffdc;
 }
 h2 {
   font-size: 60px;
@@ -88,6 +89,10 @@ img {
 
 .section__description--wrapper {
   width: 60%;
+  padding: 0 24px;
+}
+.about__img--wrapper,
+.section__description--wrapper {
   padding: 0 24px;
 }
 .section__description--para {
