@@ -59,14 +59,16 @@ li {
   align-items: center;
   justify-content: center;
 }
+#about
+#discord
+#contact {
+  padding: 48px 0;
+
 /*
 ABOUT
 */
 
-#about {
-  padding: 48px 0;
-  background-color: #f8ffdc;
-}
+
 h2 {
   font-size: 60px;
   text-align: center;
@@ -79,8 +81,7 @@ justify-content: center;
 align-items: center;
 }
 .about__img--wrapper {
-  
-width: 40%
+  width: 40%; 
 padding: 0 24px;
 }
 img {
@@ -99,4 +100,13 @@ img {
   font-size: 20px;
   line-height: 1.5;
   margin-bottom: 24px;
+}
+/*
+
+DISCORD
+
+*/
+#discord {
+  padding: 48px 0;
+  background-color: #cefeff;
 }
