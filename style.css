@@ -59,15 +59,15 @@ li {
   align-items: center;
   justify-content: center;
 }
-#about
-#discord
+#about,
+#discord,
 #contact {
   padding: 48px 0;
+}
 
 /*
 ABOUT
 */
-
 
 h2 {
   font-size: 60px;
@@ -76,13 +76,13 @@ h2 {
 }
 
 .section__description {
- display: flex;
-justify-content: center;
-align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .about__img--wrapper {
-  width: 40%; 
-padding: 0 24px;
+  width: 40%;
+  padding: 0 24px;
 }
 img {
   width: 100%;
