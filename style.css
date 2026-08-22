@@ -110,3 +110,30 @@ DISCORD
   padding: 48px 0;
   background-color: #cefeff;
 }
+
+/*
+
+CONTACT
+
+*/
+
+#contact {
+  background-color: #dce9ff;
+}
+
+form {
+  width: 100%;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  margin: 0 auto;
+}
+
+input, textarea {
+  font-size: 20px;
+  padding: 6px 12px;
+  margin-bottom: 24px;
+}
