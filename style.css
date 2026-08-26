@@ -148,6 +148,7 @@ form {
   justify-content: center;
   padding: 24px;
   margin: 0 auto;
+  padding: 0 24px;
 }
 
 input, textarea {
@@ -218,4 +219,13 @@ ul {
 .about__img--wrapper {
   width: 100%;
   }
+#discord .section__description {
+  flex-direction: column-reverse;
+}
+footer{
+  padding: 48px 24px;
+}
+footer-logo {
+  width: 360px;
+}
 }
