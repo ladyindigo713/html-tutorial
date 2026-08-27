@@ -193,9 +193,11 @@ footer {
 
 .home__description {
   margin: 24px 0;
-  display: flex;
-  justify-content: column;
+width: 100%;
   align-items: center;
+}
+.home__img--wrapper {
+  width: 100%;
 }
 
 h1 {
@@ -231,5 +233,9 @@ footer{
 }
 footer-logo {
   width: 360px;
+}
+.footer__link {
+  padding: 0 4px;
+font-size: 18px;
 }
 }
